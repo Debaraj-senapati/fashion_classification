@@ -8,8 +8,8 @@ Trains and evaluates the model on real-world fashion image data
 Visualizes predictions and training performance
 
  Technologies:-
-Python
-TensorFlow/Keras
-NumPy
-Matplotlib
-seaborn
+Python,
+TensorFlow/Keras,
+NumPy,
+Matplotlib,
+seaborn,
